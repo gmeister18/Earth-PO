@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Este projeto gerencia o mapeamento e cadastro de impressoras e links de internet das obras e locais da Paulo Octavio dentro do Earth.com.
+Este projeto gerencia o mapeamento e cadastro de impressoras e links de internet das obras e locais da PaulOOctavio dentro do earth.google.com
 
 ## Objetivos:
 
@@ -20,16 +20,18 @@ Este projeto gerencia o mapeamento e cadastro de impressoras e links de internet
 ## Tecnologias:
 
 - GitHub
-- Earth.com
+- earth.google.com
 - API Google Maps
 - HTML5 e CSS3
 
 ## Estrutura do Repositório:
 
 - README.md: Este arquivo.
-- data/: Diretório que armazena os dados das impressoras e links de internet.
-- docs/: Diretório que armazena a documentação do projeto.
-- scripts/: Diretório que armazena os scripts utilizados para gerenciar o repositório.
+- Obras/: Diretório que armazena os dados das impressoras e links de internet das Obras.
+- Shoppings/: Diretório que armazena os dados das impressoras e links de internet dos Shoppings.
+- Mídias/: Diretório que armazena os dados das impressoras e links de internet das Mídias e Concessionária.
+- Hotéis/: Diretório que armazena os dados das impressoras e links de internet dos Hotéis.
+- Documentação/: Diretório que armazena a documentação do projeto.
 
 ## Licença:
 
